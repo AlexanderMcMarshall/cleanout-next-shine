@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="container flex items-center justify-between h-16">
         <div className="flex items-center gap-3">
            <span className="font-display text-base font-bold uppercase tracking-wider text-white">
-              Clean Out US
+              Clean Out 
             </span>
         </div>
 
