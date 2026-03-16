@@ -12,7 +12,9 @@ const Navbar = () => {
     >
       <div className="container flex items-center justify-between h-16">
         <div className="flex items-center gap-3">
-          <img src={logo} alt="Clean Out" className="h-10 w-auto" />
+           <span className="font-display text-base font-bold uppercase tracking-wider text-white">
+              Clean Out US
+            </span>
         </div>
 
         <div className="hidden md:flex items-center gap-8">
